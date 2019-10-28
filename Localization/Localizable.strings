@@ -1,0 +1,12 @@
+/* 
+  Localized.strings
+  MECodingChallenge
+
+  Created by Marcel McFall on 28/10/19.
+  Copyright © 2019 Marcel McFall. All rights reserved.
+*/
+"PEOPLE.DB.TITLE" = "People DB";
+"PERSON.DETAIL" = "Person Detail";
+"GENDER.NOT.FOUND" = "Gender not Found";
+"NAME.NOT.FOUND" = "Name Not Found";
+"BIRTHDAY.NOT.FOUND" = "Birtday not Found";
