@@ -20,7 +20,6 @@
 		1F9B48112361177300FC959F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1F9B480F2361177300FC959F /* Main.storyboard */; };
 		1F9B48132361177500FC959F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F9B48122361177500FC959F /* Assets.xcassets */; };
 		1F9B48162361177500FC959F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1F9B48142361177500FC959F /* LaunchScreen.storyboard */; };
-		1F9B48212361177500FC959F /* MECodingChallengeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F9B48202361177500FC959F /* MECodingChallengeTests.swift */; };
 		1F9B482C2361177500FC959F /* MECodingChallengeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F9B482B2361177500FC959F /* MECodingChallengeUITests.swift */; };
 		1F9B483A236117FF00FC959F /* EmployeeDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F9B4839236117FF00FC959F /* EmployeeDetailViewController.swift */; };
 		1F9B48432361199000FC959F /* EmployeesTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F9B48412361199000FC959F /* EmployeesTableViewCell.swift */; };
@@ -82,7 +81,6 @@
 		1F9B48152361177500FC959F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1F9B48172361177500FC959F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1F9B481C2361177500FC959F /* MECodingChallengeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MECodingChallengeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		1F9B48202361177500FC959F /* MECodingChallengeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MECodingChallengeTests.swift; sourceTree = "<group>"; };
 		1F9B48222361177500FC959F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1F9B48272361177500FC959F /* MECodingChallengeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MECodingChallengeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F9B482B2361177500FC959F /* MECodingChallengeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MECodingChallengeUITests.swift; sourceTree = "<group>"; };
@@ -245,7 +243,6 @@
 			children = (
 				1FC3BBBE236673B90064B887 /* EmployeeListViewModelSpec.swift */,
 				1FB7D51823674C0D0059B09C /* EmployeeDetailViewModelSpec.swift */,
-				1F9B48202361177500FC959F /* MECodingChallengeTests.swift */,
 				1F9B48222361177500FC959F /* Info.plist */,
 				1FB7D50A236721BC0059B09C /* BaseServerApi.swift */,
 			);
@@ -611,7 +608,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				1FC3BBC523667D740064B887 /* EmployeeListViewModelSpec.swift in Sources */,
-				1F9B48212361177500FC959F /* MECodingChallengeTests.swift in Sources */,
 				1FB7D51923674C0D0059B09C /* EmployeeDetailViewModelSpec.swift in Sources */,
 				1FB7D50B236721BC0059B09C /* BaseServerApi.swift in Sources */,
 			);
